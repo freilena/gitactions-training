@@ -16,7 +16,6 @@ jobs:
                 steps:
                 - name: Date
                   run: date
-                needs: 
 
         macos:
                 name: Mac
